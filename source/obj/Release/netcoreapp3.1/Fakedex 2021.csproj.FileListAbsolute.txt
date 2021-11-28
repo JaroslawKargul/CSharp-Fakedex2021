@@ -1,0 +1,25 @@
+C:\Users\JarekK\source\repos\Fakedex 2021 (3)\Fakedex 2021\bin\Release\netcoreapp3.1\Fakedex 2021.exe
+C:\Users\JarekK\source\repos\Fakedex 2021 (3)\Fakedex 2021\bin\Release\netcoreapp3.1\Fakedex 2021.deps.json
+C:\Users\JarekK\source\repos\Fakedex 2021 (3)\Fakedex 2021\bin\Release\netcoreapp3.1\Fakedex 2021.runtimeconfig.json
+C:\Users\JarekK\source\repos\Fakedex 2021 (3)\Fakedex 2021\bin\Release\netcoreapp3.1\Fakedex 2021.runtimeconfig.dev.json
+C:\Users\JarekK\source\repos\Fakedex 2021 (3)\Fakedex 2021\bin\Release\netcoreapp3.1\Fakedex 2021.dll
+C:\Users\JarekK\source\repos\Fakedex 2021 (3)\Fakedex 2021\bin\Release\netcoreapp3.1\Fakedex 2021.pdb
+C:\Users\JarekK\source\repos\Fakedex 2021 (3)\Fakedex 2021\obj\Release\netcoreapp3.1\Fakedex_2021.Fakedex2021.resources
+C:\Users\JarekK\source\repos\Fakedex 2021 (3)\Fakedex 2021\obj\Release\netcoreapp3.1\Fakedex_2021.Properties.Resources.resources
+C:\Users\JarekK\source\repos\Fakedex 2021 (3)\Fakedex 2021\obj\Release\netcoreapp3.1\Fakedex 2021.csproj.GenerateResource.cache
+C:\Users\JarekK\source\repos\Fakedex 2021 (3)\Fakedex 2021\obj\Release\netcoreapp3.1\Fakedex 2021.AssemblyInfoInputs.cache
+C:\Users\JarekK\source\repos\Fakedex 2021 (3)\Fakedex 2021\obj\Release\netcoreapp3.1\Fakedex 2021.AssemblyInfo.cs
+C:\Users\JarekK\source\repos\Fakedex 2021 (3)\Fakedex 2021\obj\Release\netcoreapp3.1\Fakedex 2021.csproj.CoreCompileInputs.cache
+C:\Users\JarekK\source\repos\Fakedex 2021 (3)\Fakedex 2021\obj\Release\netcoreapp3.1\Fakedex 2021.dll
+C:\Users\JarekK\source\repos\Fakedex 2021 (3)\Fakedex 2021\obj\Release\netcoreapp3.1\Fakedex 2021.pdb
+C:\Users\JarekK\source\repos\Fakedex 2021 (3)\Fakedex 2021\obj\Release\netcoreapp3.1\Fakedex 2021.genruntimeconfig.cache
+C:\Users\JarekK\source\repos\Fakedex 2021 (3)\Fakedex 2021\obj\Release\netcoreapp3.1\Fakedex_2021.DeleteConfirmation.resources
+C:\Users\JarekK\source\repos\Fakedex 2021 (3)\Fakedex 2021\obj\Release\netcoreapp3.1\Fakedex_2021.AddPkmnPanel.resources
+C:\Users\JarekK\source\repos\Fakedex 2021 (3)\Fakedex 2021\obj\Release\netcoreapp3.1\Fakedex_2021.EditBaseStatsPanel.resources
+C:\Users\JarekK\source\repos\Fakedex 2021 (3)\Fakedex 2021\obj\Release\netcoreapp3.1\Fakedex_2021.EditAttackListPanel.resources
+C:\Users\JarekK\source\repos\Fakedex 2021 (3)\Fakedex 2021\obj\Release\netcoreapp3.1\Fakedex_2021.EditEvoLineForm.resources
+C:\Users\JarekK\source\repos\Fakedex 2021 (3)\Fakedex 2021\obj\Release\netcoreapp3.1\Fakedex_2021.AltFormEditForm.resources
+C:\Users\JarekK\source\repos\Fakedex 2021 (3)\Fakedex 2021\obj\Release\netcoreapp3.1\Fakedex_2021.FAKEDEX_SAVEPOPUP.resources
+C:\Users\JarekK\source\repos\Fakedex 2021 (3)\Fakedex 2021\obj\Release\netcoreapp3.1\Fakedex_2021.Form9.resources
+C:\Users\JarekK\source\repos\Fakedex 2021 (3)\Fakedex 2021\obj\Release\netcoreapp3.1\Fakedex 2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JarekK\source\repos\Fakedex 2021 (3)\Fakedex 2021\obj\Release\netcoreapp3.1\Fakedex 2021.csproj.AssemblyReference.cache

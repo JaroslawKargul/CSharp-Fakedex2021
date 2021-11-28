@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Pokemon>
+  <Name>STRELICH</Name>
+  <Type1>nature</Type1>
+  <Type2>
+  </Type2>
+  <Description>BIRD OF PARADISE\nA Strelich in a garden is a symbol of prestige. The petals around its neck give off a pleasant aroma and because of that they quickly became an ingredient of expensive parfumes. Tearing off a petal isn't pleasant to Strelich; waiting for it to fall off naturally is advised.</Description>
+  <Stats>Hp=70 Attack=99 Defense=85 SpAttack=0 SpDefense=0 Speed=115</Stats>
+  <PhysicalStats>Height=1.2 Weight=6.3</PhysicalStats>
+  <AttackList>
+    <Attack>Level=1 MoveName=Nibble Type=normal</Attack>
+    <Attack>Level=1 MoveName=Birdsong Type=normal</Attack>
+    <Attack>Level=5 MoveName=Pecking Type=flying</Attack>
+    <Attack>Level=13 MoveName=Leaf_Slap Type=grass</Attack>
+    <Attack>Level=17 MoveName=Soothing_Powder Type=grass</Attack>
+    <Attack>Level=24 MoveName=Threaten Type=dark</Attack>
+    <Attack>Level=30 MoveName=Leafy_Hurricane Type=grass</Attack>
+    <Attack>Level=36 MoveName=Grass_Blades Type=grass</Attack>
+    <Attack>Level=41 MoveName=Aerial_Rush Type=flying</Attack>
+    <Attack>Level=48 MoveName=Super_Photosynthesis Type=grass</Attack>
+    <Attack>Level=57 MoveName=Power_Kick Type=fighting</Attack>
+    <Attack>Level=65 MoveName=Sunbeam Type=fire</Attack>
+    <Attack>Level=72 MoveName=Deadly_Lance Type=dark</Attack>
+    <Attack>Level=100 MoveName=Divine_Flora Type=grass</Attack>
+  </AttackList>
+  <Ability>LIGHTWEIGHT \nDeals 10% more damage to the opponent with WIND-type attacks. \nThe opponent deals 10% more damage to the user with WIND-type attacks.</Ability>
+  <ConceptOrigin>Strelich is based on large flightless birds; although much smaller than them. A garden lily's petals adorn the bird's neck, while the head resembles a flower of Strelitzia, a plant often called "bird of paradise". The shiny colors are based on Strelitzia nicolai. \nThe name is a mixture of words "Strelitzia" and "ostrich".</ConceptOrigin>
+  <BaseImage>003-strelowary.png</BaseImage>
+  <ShinyImage>003-strelowaryS.png</ShinyImage>
+  <SizeComparisonImage>003-size.png</SizeComparisonImage>
+  <Stage1>ID=001 Image=001-orchirp.png</Stage1>
+  <Stage2>ID=002 Image=002-anthureet.png</Stage2>
+  <Stage3>ID=003 Image=003-strelowary.png</Stage3>
+  <Stage1To2EvoMethod>Level 16</Stage1To2EvoMethod>
+  <Stage2To3EvoMethod>Level 35</Stage2To3EvoMethod>
+</Pokemon>

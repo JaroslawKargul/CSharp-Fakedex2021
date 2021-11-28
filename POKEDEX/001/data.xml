@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Pokemon>
+  <Name>ORCHIRP</Name>
+  <Type1>nature</Type1>
+  <Type2>
+  </Type2>
+  <Description>TINY BIRD\nOrchirp uses its petals to glide among tree branches and to get carried by wind to the flowers it feeds on. Its chirping is the loudest during the morning, often waking up everyone nearby.</Description>
+  <Stats>Hp=30 Attack=62 Defense=55 SpAttack=0 SpDefense=0 Speed=70</Stats>
+  <PhysicalStats>Height=0.32 Weight=0.3</PhysicalStats>
+  <AttackList>
+    <Attack>Level=1 MoveName=Nibble Type=normal</Attack>
+    <Attack>Level=1 MoveName=Birdsong Type=normal</Attack>
+    <Attack>Level=5 MoveName=Pecking Type=flying</Attack>
+    <Attack>Level=13 MoveName=Leaf_Slap Type=grass</Attack>
+    <Attack>Level=20 MoveName=Soothing_Powder Type=grass</Attack>
+    <Attack>Level=27 MoveName=Threaten Type=dark</Attack>
+    <Attack>Level=38 MoveName=Leafy_Hurricane Type=grass</Attack>
+    <Attack>Level=49 MoveName=Aerial_Rush Type=flying</Attack>
+    <Attack>Level=60 MoveName=Super_Photosynthesis Type=grass</Attack>
+  </AttackList>
+  <Ability>LIGHTWEIGHT \nDeals 10% more damage to the opponent with WIND-type attacks. \nThe opponent deals 10% more damage to the user with WIND-type attacks.</Ability>
+  <ConceptOrigin>Orchirp is based on small birds, mainly sparrows. There are elements of a pink Phalaenopsis orchid: petals as wings and hood, and a root as the tail. The lighter color variant is based on a Phalaenopsis orchid with white flowers. \nThe name is made of the words "orchid" and "chirp".</ConceptOrigin>
+  <BaseImage>001-orchirp.png</BaseImage>
+  <ShinyImage>001-orchirpS.png</ShinyImage>
+  <SizeComparisonImage>001-size.png</SizeComparisonImage>
+  <Stage1>ID=001 Image=001-orchirp.png</Stage1>
+  <Stage2>ID=002 Image=002-anthureet.png</Stage2>
+  <Stage3>ID=003 Image=003-strelowary.png</Stage3>
+  <Stage1To2EvoMethod>Level 16</Stage1To2EvoMethod>
+  <Stage2To3EvoMethod>Level 35</Stage2To3EvoMethod>
+</Pokemon>

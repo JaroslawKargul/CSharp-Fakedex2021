@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Pokemon>
+  <Name>ANTHUREET</Name>
+  <Type1>nature</Type1>
+  <Type2>
+  </Type2>
+  <Description>LEAFY BIRD\nA common pet, Anthureet is favored especially by gardeners and hobbyists. While its elegant appearance brings joy to people, its songs stimulate nearby plants to grow larger and healthier.</Description>
+  <Stats>Hp=55 Attack=85 Defense=70 SpAttack=0 SpDefense=0 Speed=90</Stats>
+  <PhysicalStats>Height=0.55 Weight=0.9</PhysicalStats>
+  <AttackList>
+    <Attack>Level=1 MoveName=Nibble Type=normal</Attack>
+    <Attack>Level=1 MoveName=Birdsong Type=normal</Attack>
+    <Attack>Level=5 MoveName=Pecking Type=flying</Attack>
+    <Attack>Level=13 MoveName=Leaf_Slap Type=grass</Attack>
+    <Attack>Level=20 MoveName=Soothing_Powder Type=grass</Attack>
+    <Attack>Level=26 MoveName=Threaten Type=dark</Attack>
+    <Attack>Level=34 MoveName=Leafy_Hurricane Type=grass</Attack>
+    <Attack>Level=38 MoveName=Grass_Blades Type=grass</Attack>
+    <Attack>Level=44 MoveName=Aerial_Rush Type=flying</Attack>
+    <Attack>Level=57 MoveName=Super_Photosynthesis Type=grass</Attack>
+    <Attack>Level=66 MoveName=Sunbeam Type=fire</Attack>
+  </AttackList>
+  <Ability>LIGHTWEIGHT \nDeals 10% more damage to the opponent with WIND-type attacks. \nThe opponent deals 10% more damage to the user with WIND-type attacks.</Ability>
+  <ConceptOrigin>Anthureet's body type was inspired by various birds kept as pets, such as parakeets and cockatiels. The design is mixed with Anthurium, a common houseplant. The shiny variant of Anthureet represents a white Anthurium, while the regular represents a red cultivar. \nThe name is a fusion of words "Anthurium" and "parakeet".</ConceptOrigin>
+  <BaseImage>002-anthureet.png</BaseImage>
+  <ShinyImage>002-anthureetS.png</ShinyImage>
+  <SizeComparisonImage>002-size.png</SizeComparisonImage>
+  <Stage1>ID=001 Image=001-orchirp.png</Stage1>
+  <Stage2>ID=002 Image=002-anthureet.png</Stage2>
+  <Stage3>ID=003 Image=003-strelowary.png</Stage3>
+  <Stage1To2EvoMethod>Level 16</Stage1To2EvoMethod>
+  <Stage2To3EvoMethod>Level 35</Stage2To3EvoMethod>
+</Pokemon>

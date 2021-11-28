@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7r3xzb0g6PGEP9pqRLEzrT3Xwymz9UQFuDlR8SHwy+c7VD1DoFke5n7rh75XejuF68ctFSUryn5BqJR+bAqY3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JarekK\\source\\repos\\Fakedex 2021 (3)\\Fakedex 2021\\Fakedex 2021.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JarekK\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.20\\microsoft.netcore.app.runtime.win-x64.3.1.20.nupkg.sha512",
+    "C:\\Users\\JarekK\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.20\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.20.nupkg.sha512",
+    "C:\\Users\\JarekK\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.20\\microsoft.aspnetcore.app.runtime.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

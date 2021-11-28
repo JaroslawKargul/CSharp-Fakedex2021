@@ -1,0 +1,2 @@
+C:\Users\JarekK\source\repos\Fakedex 2021 (3)\Fakedex 2021\bin\Release\netcoreapp3.1\publish\Fakedex 2021.pdb
+C:\Users\JarekK\source\repos\Fakedex 2021 (3)\Fakedex 2021\bin\Release\netcoreapp3.1\publish\Fakedex 2021.exe
